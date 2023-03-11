@@ -2,6 +2,7 @@
     
 name: github pages learning
 on:
+
   push:
     branches:
       - main
